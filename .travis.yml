@@ -9,7 +9,6 @@ addons:
    - cmake
    - cmake-data
 
-
 before_install:
   - pip install --user cpp-coveralls
 script:
